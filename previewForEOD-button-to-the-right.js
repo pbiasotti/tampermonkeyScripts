@@ -6,6 +6,8 @@
 // @match      https://dev.azure.com/azurecom/*/_workitems/edit/*
 // @copyright  andres peralta
 // @require http://code.jquery.com/jquery-latest.js
+// @updateURL   https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.meta.js
+// @downloadURL https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.user.js
 // ==/UserScript==
 
 (function(){
