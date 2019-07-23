@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name       Open preview for EOD
-// @namespace  devops
-// @version    0.1
-// @description  Opens preview for EOD
-// @match      https://dev.azure.com/azurecom/*/_workitems/edit/*
-// @copyright  andres peralta
-// @require http://code.jquery.com/jquery-latest.js
-// @updateURL   https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.meta.js
-// @downloadURL https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.user.js
+// @name            Open preview for EOD
+// @namespace       devops
+// @version         0.1
+// @description     Opens preview for EOD
+// @match           https://dev.azure.com/azurecom/*/_workitems/edit/*
+// @copyright       andres peralta
+// @require         http://code.jquery.com/jquery-latest.js
+// @updateURL       https://raw.githubusercontent.com/pbiasotti/tampermonkeyScripts/edit/pbiasotti-patch-1/previewForEOD-button-to-the-right.js
+// @downloadURL     https://raw.githubusercontent.com/pbiasotti/tampermonkeyScripts/edit/pbiasotti-patch-1/previewForEOD-button-to-the-right.js
 // ==/UserScript==
 
 (function(){
