@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Open preview for EOD
-// @namespace       devops
+// @namespace       http://tampermonkey.net/
 // @version         0.1
 // @description     Opens preview for EOD
 // @match           https://dev.azure.com/azurecom/*/_workitems/edit/*
